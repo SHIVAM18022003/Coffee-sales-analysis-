@@ -17,7 +17,7 @@ ALL SQL queries used for obtaining the required data is stored in "https://githu
 
 Data is taken from kaggle and uploaded in the repository "https://github.com/SHIVAM18022003/Coffee-sales-analysis-/blob/main/Coffee%20Shop%20Sales.xlsx"
 
-![alt text]([https://github.com/SHIVAM18022003/Coffee-sales-analysis-/blob/main/dahboard%20img%202.png])
+![alt text](https://github.com/SHIVAM18022003/Coffee-sales-analysis-/blob/main/dahboard%20img%202.png)
 
 - COFFEE SALES ANALYSIS DASHBOARD FEATURES
 
