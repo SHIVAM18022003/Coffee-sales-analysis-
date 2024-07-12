@@ -10,11 +10,11 @@ Raw data file preparation
 - Storing Results
 - Preparing SQL Documents
   
-ALL SQL queries used for obtain required data is stored in "https://github.com/SHIVAM18022003/Coffee-sales-analysis-/blob/main/MY%20SQL%20Queries.docx"
+ALL SQL queries used for obtaining the required data is stored in "https://github.com/SHIVAM18022003/Coffee-sales-analysis-/blob/main/MY%20SQL%20Queries.docx"
 
-COFFEE SALES ANALYSIS DASHBOARD FEATURES
+- COFFEE SALES ANALYSIS DASHBOARD FEATURES
 
-KPI's requirements completed
+-KPI's
 1. Total Sales Analysis:
 
 • Calculated the total sales for each respective month.
@@ -39,7 +39,7 @@ KPI's requirements completed
 
 • Calculated the difference in the total quantity sold between the selected month and the previous month.
 
-CHARTS REQUIREMENTS COMPLETED
+-CHARTS
 
 1. Calendar Heat Map:
 
