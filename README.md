@@ -14,9 +14,10 @@ Raw data file preparation
 - Preparing SQL Documents
   
 ALL SQL queries used for obtaining the required data is stored in "https://github.com/SHIVAM18022003/Coffee-sales-analysis-/blob/main/MY%20SQL%20Queries.docx".
+
 Data is taken from kaggle and uploaded in the repository "https://github.com/SHIVAM18022003/Coffee-sales-analysis-/blob/main/Coffee%20Shop%20Sales.xlsx"
 
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/SHIVAM18022003/Coffee-sales-analysis-/blob/main/dahboard%20img%202.png])
 
 - COFFEE SALES ANALYSIS DASHBOARD FEATURES
 
