@@ -6,9 +6,9 @@ Raw data file preparation
 - Importing File
 - Cleaning Imported File
 - Changing Data Types
--Firing SQL Queries for Business Requirements
--Storing Results
--Preparing SQL Documents
+- Firing SQL Queries for Business Requirements
+- Storing Results
+- Preparing SQL Documents
 ALL SQL queries used for obtain required data is stored in 
 
 COFFEE SALES ANALYSIS DASHBOARD FEATURES
