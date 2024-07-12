@@ -9,7 +9,8 @@ Raw data file preparation
 - Firing SQL Queries for Business Requirements
 - Storing Results
 - Preparing SQL Documents
-ALL SQL queries used for obtain required data is stored in 
+  
+ALL SQL queries used for obtain required data is stored in "https://github.com/SHIVAM18022003/Coffee-sales-analysis-/blob/main/MY%20SQL%20Queries.docx"
 
 COFFEE SALES ANALYSIS DASHBOARD FEATURES
 
