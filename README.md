@@ -1,5 +1,15 @@
 # Coffee-sales-analysis
 
+Used MYsql to filter, clean and optimise data to get requried outputs, steps included  
+Raw data file preparation
+- Creating Database
+- Importing File
+- Cleaning Imported File
+- Changing Data Types
+-Firing SQL Queries for Business Requirements
+-Storing Results
+-Preparing SQL Documents
+ALL SQL queries used for obtain required data is stored in 
 
 COFFEE SALES ANALYSIS DASHBOARD FEATURES
 
