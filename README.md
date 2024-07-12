@@ -1,6 +1,8 @@
 # Coffee-sales-analysis
+-Performed data cleaning and analysis in MySQL,including date conversion,subqueries and filtering techniques
+-Incorporated Data analysis techniques,specializing Time series analysis to draw valuable insights of sales, created dashboard showcasing various KPIs,Chats and Tooltips using PowerBI for data driven decision making
 
-Used MYsql to filter, clean and optimise data to get requried outputs, steps included  
+Used MySQL to filter, clean and optimise data to get requried outputs, steps included  
 Raw data file preparation
 - Creating Database
 - Importing File
